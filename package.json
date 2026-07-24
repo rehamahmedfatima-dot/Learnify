@@ -1,0 +1,7 @@
+{
+  "name": "smart-learning-ai",
+  "version": "1.0.0",
+  "dependencies": {
+    "groq-sdk": "^0.3.0"
+  }
+}
