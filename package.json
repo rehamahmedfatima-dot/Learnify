@@ -1,7 +1,7 @@
 {
-  "name": "smart-learning-ai",
+  "name": "learnify-gemini",
   "version": "1.0.0",
   "dependencies": {
-    "groq-sdk": "^0.3.0"
+    "@google/generative-ai": "^0.1.0"
   }
 }
